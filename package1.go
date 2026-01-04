@@ -24,6 +24,6 @@ func main() {
 // math/rand is a subpackage
 		provides functions to generate random numbers
 
-// Functions are accessed using packageName.functionName
+// Functions are accessed using packageName.
 
 */
